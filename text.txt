@@ -1,4 +1,7 @@
 C - Git 사용법을 배웠
 D - 씁니다.
+<<<<<<< HEAD
 E - ㅠㅠ
 .
+=======
+>>>>>>> parent of ce2898c (Update text.txt)
